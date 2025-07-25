@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hola Mundo
 No NO
+=======
+Hola Mundo Felis
+>>>>>>> feature
