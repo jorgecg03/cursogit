@@ -15,7 +15,7 @@
 - Cut the vanilla bean in half lengthwise. If using vanilla extract, wait to add until the end of Step 03.
 
 ### Step 2
-
+asdfads
 - Add the sugar, water and vanilla bean (if using) to a small saucepan. Bring to a boil and then reduce heat to a simmer for 5 minutes.
 
 ### Step 3
