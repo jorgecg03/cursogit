@@ -1,6 +1,6 @@
 # Hazelnut Syrup
 
-## Description: Enjoy the rich, nutty sophistication of hazelnut syrup in your coffee with this simple recipe
+## Description: Enjoy the rich, nutty sophistication of hazelnut syrup in your coffee
 
 ## Ingredients
 
