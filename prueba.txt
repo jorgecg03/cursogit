@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 Hola Caracola Mundo Felis Sin Rebase conflicts 
+algunos cambios mas tras la resolución
 
 
 
