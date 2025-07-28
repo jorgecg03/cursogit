@@ -1,3 +1,5 @@
-Hola Caracola Mundo Felis Rebase conflicts MOre
+<<<<<<< HEAD
+Hola Caracola Mundo Felis Sin Rebase conflicts 
+
 
 
