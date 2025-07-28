@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 Hola Caracola Mundo Felis Sin Rebase conflicts 
 algunos cambios mas tras la resolución
 Un commit por delante de remote
-
+Algo más
 
